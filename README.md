@@ -2,7 +2,7 @@
 This project is made as a template for scalable and flexible API endpoints serving complex data structures.
 
 ## [Live Demo](https://demo-blog-backend.herokuapp.com/swagger)
-## [![App](https://raw.githubusercontent.com/IvanDimanov/demo-blog-backend/master/image.png)](https://demo-blog-backend.herokuapp.com/swagger)
+## [![App](https://raw.githubusercontent.com/IvanDimanov/demo-blog-backend/main/image.png)](https://demo-blog-backend.herokuapp.com/swagger)
 
 <br />
 
