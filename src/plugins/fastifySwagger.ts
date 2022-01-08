@@ -61,6 +61,7 @@ const plugin = fastifyPlugin(async (
             version: '3.0.0',
             description:
               'This Swagger Doc is meant to be used for testing fastify APIs using the predefined validation rules.<br />' +
+              '<img src="https://raw.githubusercontent.com/IvanDimanov/demo-blog-db-migrations/main/image.png" />' +
               'The DB relation schema and migration data can be found [here](https://github.com/IvanDimanov/demo-blog-db-migrations)',
           },
 
